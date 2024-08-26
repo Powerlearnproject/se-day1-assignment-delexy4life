@@ -7,7 +7,7 @@ Explain what software engineering is and discuss its importance in the technolog
 
 Software engineering is a disciplined approach to creating and sustaining top-notch software systems, leveraging established engineering principles, techniques, and tools. This comprehensive process encompasses the entire software lifecycle, including design, development, testing, deployment, and ongoing maintenance, to ensure the delivery of high-quality software products that meet user needs and expectations.
 
-Software engineering is the backbone of the tech industry, driving innovation and powering the software that transforms the way we live, work, and play.Whether it's staying in touch with friends, shopping online, streaming our favorite shows, or accessing life-saving healthcare, software engineering makes modern life possible.
+Software engineering is the backbone of the tech industry, driving innovation and powering the software that transforms the way we live, work, and play. Whether it's staying in touch with friends, shopping online, streaming our favorite shows, or accessing life-saving healthcare, software engineering makes modern life possible, hence its importance.
 
 
 
@@ -17,8 +17,9 @@ Identify and describe at least three key milestones in the evolution of software
 2. The advent of structured programming in the 1970s.
 3. The rise of agile methodologies in the 2000s.
 
+Further description of the three key milestones are;
 1. The development of programming languages (e.g., Fortran, C): The creation of programming languages like Fortran (1957) and C (1972) marked a significant milestone in software engineering. These languages enabled developers to write efficient, portable, and maintainable code, replacing assembly languages and paving the way for modern software development.
-2: The advent of structured programming in the 1970s:Structured programming emerged in the 1970s, introducing a disciplined approach to coding. This paradigm emphasized modular, top-down design, and logical control structures, making software more readable, maintainable, and efficient. Structured programming revolutionized software development, improving code quality and reducing errors.
+2. The advent of structured programming in the 1970s:Structured programming emerged in the 1970s, introducing a disciplined approach to coding. This paradigm emphasized modular, top-down design, and logical control structures, making software more readable, maintainable, and efficient. Structured programming revolutionized software development, improving code quality and reducing errors.
 3. The rise of agile methodologies in the 2000s: The 2000s saw the rise of agile methodologies, such as Scrum and Extreme Programming (XP). Agile emphasized flexibility, collaboration, and rapid iteration, enabling teams to respond quickly to changing requirements and deliver software faster. Agile transformed software development, focusing on customer needs, continuous improvement, and team empowerment.
 
 
@@ -31,13 +32,14 @@ List and briefly explain the phases of the Software Development Life Cycle.
 4. Testing
 5. Deployment
 6. Maintenance
-   
-1. Requirements: Discovering and defining what users need and what the system must do.
-2. Design: Envisioning and outlining the software's overall structure and user experience.
-3. Implementation: Bringing the design to life by writing code and constructing the software.
-4. Testing: Verifying that the software works correctly, is reliable, and meets user needs.
-5. Deployment: Launching the software for users or customers to access and use.
-6. Maintenance: Continuously improving, updating, and supporting the software to ensure it remains effective and efficient.
+
+Further explanation of the phases are;
+1. Requirements: It involves discovering and defining what users need and what the system must do.
+2. Design: It involves envisioning and outlining the software's overall structure and user experience.
+3. Implementation: It involves bringing the design to life by writing code and constructing the software.
+4. Testing: It involves verifying that the software works correctly, is reliable, and meets user needs.
+5. Deployment: It involves launching the software for users or customers to access and use.
+6. Maintenance:It involves continuously improving, updating, and supporting the software to ensure it remains effective and efficient.
 
 
 
@@ -150,11 +152,8 @@ Vague Prompt:
 Improved Prompt:
 "List the architectural features of the building's exterior, including materials, windows, and entrance design."
 
-
-Why the Improved Prompt is More Effective:*
-
 The improved prompt is more effective because it possesses the following features
-1. Specificity*: The improved prompt asks for specific information about the building's exterior, making it clear what is being requested.
+1. Specificity: The improved prompt asks for specific information about the building's exterior, making it clear what is being requested.
 2. Clarity: The prompt is easy to understand, leaving no room for misinterpretation.
 3. Conciseness: The prompt is direct and to the point, without unnecessary words or phrases.
 4. Focus: The improved prompt focuses on a specific aspect of the building, ensuring relevant information is provided.
